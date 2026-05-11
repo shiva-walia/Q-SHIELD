@@ -160,19 +160,6 @@ pip install -r requirements.txt
 streamlit run ui/app.py
 ```
 
----
-
-## Project Timeline
-
-| Phase | Dates | Status |
-|-------|-------|--------|
-| Setup + Research | 6–16 May | 🔄 In Progress |
-| Classical ML Baseline | 17–23 May | ⏳ Upcoming |
-| Quantum Core Engine | 24–30 May | ⏳ Upcoming |
-| UI + Integration | 31 May–6 June | ⏳ Upcoming |
-| Evaluation + Results | 7–13 June | ⏳ Upcoming |
-| Report Writing | 14–27 June | ⏳ Upcoming |
-| Final Submission | 28 June–3 July | ⏳ Upcoming |
 
 ---
 
